@@ -1,0 +1,3 @@
+package attack
+
+interface Effectable

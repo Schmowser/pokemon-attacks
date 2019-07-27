@@ -1,0 +1,7 @@
+enum class StatusEffect {
+    PARALYZED, POISONED,
+    BURNED, FROZEN,
+    FLINCHING, CONFUSED,
+    INFATUATED, LEECHSEED,
+    ASLEEP
+}
